@@ -4,7 +4,7 @@
  <img src="https://github.com/vendz/Create-With-Kotlin/blob/main/Resources/ISTE-logo.png?raw=true" > <br> 
 </p>
 
-![webinar poster](https://github.com/vendz/Create-With-Kotlin/blob/main/Resources/webinar-poster.jpeg?raw=true)
+<!-- ![webinar poster](https://github.com/vendz/Create-With-Kotlin/blob/main/Resources/webinar-poster.jpeg?raw=true) -->
 
 An interactive webinar in which participants will discover the basics of Kotlin, an open source programming language. Along with it they will learn the vital role it plays in Android development, the control flow, coroutines, as well as the special classes included in Kotlin and much more!
 
